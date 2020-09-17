@@ -1,0 +1,58 @@
+
+---Downloaded files---
+The import files for: Stike Demo Data were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://koeksoft.de
+Data file = /var/www/vhosts/koeksoft.de/httpdocs/wp-content/themes/stike//lib/demo-data/stike-demo.xml
+Widget file = /var/www/vhosts/koeksoft.de/httpdocs/wp-content/themes/stike//lib/demo-data/stike-widgets.json
+Customizer file = /var/www/vhosts/koeksoft.de/httpdocs/wp-content/themes/stike//lib/demo-data/stike-export.dat
+Redux files:
+stike_opt -> /var/www/vhosts/koeksoft.de/httpdocs/wp-content/themes/stike//lib/demo-data/redux-options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Box Icon": Invalid post type elementor_icons
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Suche - No Title - Widget already exists
+Stike Recent Posts With Image - Recent posts - Imported
+Kategorien - No Title - Imported
+Schlagwörter-Wolke - Tags - Imported
+Galerie - Gallery - Imported
+
+Footer First : 
+
+Navigationsmenü - Company - Imported
+
+Footer Second : 
+
+Navigationsmenü - Support - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: stike_opt finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
